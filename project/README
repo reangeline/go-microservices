@@ -1,0 +1,7 @@
+# To open sh in docker
+
+docker-compose exec postgres sh
+
+# To find hostname ip
+
+hostname -i
